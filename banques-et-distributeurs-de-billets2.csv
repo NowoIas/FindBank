@@ -1,0 +1,101 @@
+;Geo Point;type;Marque;Commune
+0;50.69334339930567, 2.9125496;atm;Crédit Agricole;Houplines
+1;50.6367623993167, 3.0622128;atm;La Banque Postale;Lille
+2;50.63597449931686, 3.0626088;atm;Crédit du Nord;Lille
+3;50.64074679931591, 3.1552245;atm;Crédit Mutuel;Villeneuve-d'Ascq
+4;50.63284709931748, 3.0894859;atm;Société Générale;Lille
+5;50.72247979930008, 3.158657;bank;Crédit du Nord;Tourcoing
+6;50.64573599931496, 2.9857716;bank;Banque populaire du Nord;Lille
+7;50.665810599311015, 3.0765259;bank;Banque Populaire;Marcq-en-Barœul
+8;50.61457769932107, 3.0126153;bank;Caisse d'Épargne;Loos
+9;50.640026799316054, 3.0749458;atm;Société Générale;Lille
+10;50.630321499317965, 3.0562618;atm;LCL;Lille
+11;50.63525089931699, 3.0646827;atm;Caisse d'Épargne;Lille
+12;50.62745339931852, 3.0496851;atm;Crédit Mutuel;Lille
+13;50.63477319931709, 3.0691492;atm;CIC;Lille
+14;50.6448807993151, 3.0325318;bank;CIC;Lambersart
+15;50.67392219930943, 3.1468839;bank;Crédit du Nord;Croix
+16;50.7212659993003, 3.1589483;bank;Crédit Mutuel;Tourcoing
+18;50.63560529931692, 3.059514;bank;Crédit Agricole;Lille
+19;50.70990889930246, 3.1593025;bank;Banque Populaire;Tourcoing
+20;50.64150139931577, 3.0178022;bank;Crédit Agricole;Lille
+21;50.64148159931577, 3.0178759;atm;Crédit Agricole;Lille
+22;50.63148249931774, 3.0594549;atm;Crédit Agricole;Lille
+23;50.62633149931875, 3.0488316;atm;CIC;Lille
+24;50.635310299316984, 3.0588931;bank;Milleis Banque;Lille
+25;50.63639689931678, 3.0262783;atm;LCL;Lambersart
+26;50.66971449931025, 3.1285629;bank;Crédit Agricole;Wasquehal
+27;50.63776309931651, 3.0239645;bank;CIC;Lambersart
+28;50.636564799316716, 3.0619542;bank;Société Générale;Lille
+29;50.63322759931739, 2.9679039;bank;Crédit du Nord;Ennetières-en-Weppes
+30;50.65131399931383, 2.9781519;bank;Crédit Agricole;Lille
+31;50.65160149931378, 2.9789658;bank;Société Générale;Lille
+32;50.681352899307996, 2.87723;bank;AXA;Armentières
+34;50.67811339930865, 2.8467925;bank;Crédit Mutuel;Erquinghem-Lys
+35;50.60810739932234, 3.0762585;bank;BNP Paribas;Ronchin
+37;50.583064199327346, 3.0511158;bank;Banque Populaire;Wattignies
+38;50.5843223993271, 3.0511032;bank;Crédit du Nord;Wattignies
+39;50.667924499310615, 2.9734708;bank;Caisse d'Épargne;Pérenchies
+40;50.529237799338155, 2.9311578;bank;Caisse d'Épargne;Annœullin
+41;50.55224499933352, 3.0304841;bank;Crédit Mutuel;Seclin
+42;50.6104423993219, 3.2074231;atm;Crédit Agricole;Chéreng
+43;50.53025269933796, 2.8025179;bank;Crédit Mutuel;La Bassée
+44;50.53046809933792, 2.8041441;bank;Société Générale;La Bassée
+45;50.530115699338, 2.8020868;bank;BNP Paribas;La Bassée
+46;50.56315569933132, 2.8993384;bank;Crédit du Nord;Sainghin-en-Weppes
+47;50.53165709933768, 2.8052269;bank;Crédit Agricole;La Bassée
+48;50.63600319931682, 3.0536728;bank;Attijariwafa Bank;Lille
+49;50.70197479930402, 3.0932094;bank;Crédit Mutuel;Bondues
+50;50.65903589931234, 3.0908597;bank;Banque Populaire;Marcq-en-Barœul
+51;50.6108501993218, 3.0643561;bank;Caisse d'Épargne;Faches-Thumesnil
+52;50.609332299322105, 3.0654659;bank;Crédit du Nord;Faches-Thumesnil
+54;50.65004189931411, 3.0844638;bank;Crédit du Nord;Lille
+55;50.636359399316795, 3.0607143;atm;Caisse d'Épargne;Lille
+56;50.64530019931503, 3.1017652;bank;Caisse d'Épargne;Mons-en-Barœul
+57;50.67935709930837, 3.2473196;bank;Crédit Mutuel;Leers
+58;50.67928879930838, 3.2472376;bank;CIC;Leers
+59;50.78249209928871, 3.1250743;atm;Caisse d'Épargne;Halluin
+60;50.782721699288665, 3.1252508;atm;Crédit Mutuel;Halluin
+61;50.781774299288855, 3.1259105;bank;Banque Populaire;Halluin
+62;50.78182089928882, 3.1259019;atm;Banque Populaire;Halluin
+63;50.6150013270305, 3.048821032974401;bank;Crédit du Nord;Lille
+64;50.648169800290354, 3.085862685436871;bank;Caisse d'Épargne;Lille
+65;50.63197491259488, 3.046552450177446;bank;Société Générale;Lille
+66;50.628695919517554, 3.041991559700856;bank;LCL;Lille
+67;50.63086266192474, 3.044650499731384;bank;Crédit Agricole;Lille
+68;50.63588899999263, 3.060804149794785;bank;Société Générale;Lille
+69;50.631563359311016, 3.059416687724852;bank;Crédit Agricole;Lille
+70;50.635313200132, 3.069443174001059;bank;Société Générale;Lille
+71;50.6288605175304, 3.042158002165548;bank;Banque Populaire;Lille
+72;50.65267717920666, 3.187162974163538;bank;Banque Populaire;Hem
+73;50.66473199689711, 3.102761665295434;bank;HSBC;Marcq-en-Barœul
+74;50.63870454722155, 3.127393446518623;bank;Crédit Agricole;Villeneuve-d'Ascq
+75;50.6262848098216, 3.148910342109182;bank;Caisse d'Épargne;Villeneuve-d'Ascq
+76;50.70760970764479, 3.160379730780746;bank;Caisse d'Épargne;Tourcoing
+77;50.69172244568355, 3.172381893505729;bank;HSBC;Roubaix
+78;50.58097872473004, 3.080296079174351;bank;Banque Populaire;Faches-Thumesnil
+79;50.615598092490785, 3.141393314404717;bank;CIC;Villeneuve-d'Ascq
+80;50.626152773058394, 3.111090320201269;bank;Crédit Mutuel;Lille
+81;50.63303270432142, 3.091018432339018;bank;Crédit du Nord;Lille
+82;50.62622543148228, 3.110703123186508;bank;Crédit du Nord;Lille
+83;50.68416981343615, 3.153828850090598;bank;Caisse d'Épargne;Croix
+84;50.665650899311046, 3.1028254;bank;Crédit du Nord;Marcq-en-Barœul
+85;50.64753859931458, 3.0582903;bank;Société Générale;Lille
+88;50.63845889931637, 3.070766;atm;Caisse d'Épargne;Lille
+89;50.62739819931853, 3.0499094;atm;Crédit du Nord;Lille
+90;50.642322099315614, 3.0877502;atm;La Banque Postale;Lille
+91;50.636411999316756, 3.0613797;atm;Crédit du Nord;Lille
+92;50.647074599314664, 3.0590073;atm;LCL;Lille
+93;50.62430559931914, 3.0684165;atm;Banque Populaire;Lille
+94;50.6321590993176, 3.0615128;atm;Crédit Mutuel;Lille
+95;50.63347039931737, 3.070045;atm;Crédit Mutuel;Lille
+97;50.61576699932085, 3.0202658;atm;Crédit Agricole;Loos
+98;50.66740949931069, 3.211325;bank;Crédit du Nord;Lannoy
+99;50.66689269931079, 3.2122584;bank;Crédit Agricole;Lannoy
+100;50.64697179931469, 3.0576993;atm;Crédit Agricole;Lille
+101;50.62329349931935, 3.0533563;atm;La Banque Postale;Lille
+102;50.64681409931472, 3.0571857;bank;Caisse d'Épargne;Lille
+103;50.65011679931409, 3.0844557;atm;Crédit du Nord;Lille
+104;50.63748979931655, 3.0757758;bank;LCL;Lille
+105;50.62882569931825, 3.0532273;atm;Banque Populaire;Lille
+106;50.631165399317794, 3.0590876;atm;CIC;Lille
