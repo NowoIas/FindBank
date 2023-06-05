@@ -1,8 +1,6 @@
 import pandas as pd
 import numpy as np
 import streamlit as st
-!pip install folium
-!pip install streamlit-folium
 import folium
 from streamlit_folium import st_folium
 
